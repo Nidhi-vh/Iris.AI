@@ -1,5 +1,5 @@
 
-# I.R.I.S-AI-Assisten
+# I.R.I.S-AI-Assistent
 
 # Iris.AI
 
